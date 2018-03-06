@@ -229,7 +229,7 @@ client.on('message', message => {
         .then(connection => { // Connection is an instance of VoiceConnection
         const dispatcher = connection.playFile('./yareyaredaze.mp3');
           message.reply('yare yare daze');
-        
+
         })
 
         .catch(console.log);
@@ -238,4 +238,4 @@ client.on('message', message => {
     }
   }
 });
-client.login("NDE5ODgwNjY1ODMyNDg4OTYx.DX2ubQ.OYH6ZaOuXJi5f44pRhg4P0fJkCQ");
+client.login("process.env.NDE5ODgwNjY1ODMyNDg4OTYx.DX2ubQ.OYH6ZaOuXJi5f44pRhg4P0fJkCQ");
