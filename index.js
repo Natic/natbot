@@ -238,4 +238,4 @@ client.on('message', message => {
     }
   }
 });
-client.login("process.env.NDE5ODgwNjY1ODMyNDg4OTYx.DX2ubQ.OYH6ZaOuXJi5f44pRhg4P0fJkCQ");
+client.login("NDE5ODgwNjY1ODMyNDg4OTYx.DX2vAQ.jinFCnUghfWi0RJkR5bcSBxoXIA");
